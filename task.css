@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: 50px;
+  background-color: #ff9a4b;
+}
+
+main{
+  width: 960px;
+  display: flex;
+  background-color: blue;
+}
+
+.box1-img{
+  height: 150px;
+  background-image: url(img/flow01.png);
+  
+}
+
+footer{
+  width: 100%;
+  height: 50px;
+  background-color: #AAAAAA
+}
